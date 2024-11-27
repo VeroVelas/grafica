@@ -1,0 +1,1465 @@
+Fecha,Perfil,Tipo de Alimento,Cantidad Consumida (gr)
+2024-01-01,Perro Max,Brit Care,485
+2024-01-01,Gato Luna,Pedigri,320
+2024-01-01,Perro Coco,Brit Care,121
+2024-01-01,Gato Simba,Pedigri,70
+2024-01-02,Perro Max,Brit Care,171
+2024-01-02,Gato Luna,Brit Care,264
+2024-01-02,Perro Coco,Brit Care,137
+2024-01-02,Gato Simba,Pedigri,149
+2024-01-03,Perro Max,Brit Care,199
+2024-01-03,Gato Luna,Pedigri,307
+2024-01-03,Perro Coco,Beneful,343
+2024-01-03,Gato Simba,Beneful,241
+2024-01-04,Perro Max,Pedigri,210
+2024-01-04,Gato Luna,Beneful,71
+2024-01-04,Perro Coco,Pedigri,285
+2024-01-04,Gato Simba,Pedigri,98
+2024-01-05,Perro Max,Brit Care,108
+2024-01-05,Gato Luna,Brit Care,219
+2024-01-05,Perro Coco,Brit Care,239
+2024-01-05,Gato Simba,Beneful,224
+2024-01-06,Perro Max,Beneful,100
+2024-01-06,Gato Luna,Brit Care,293
+2024-01-06,Perro Coco,Pedigri,180
+2024-01-06,Gato Simba,Pedigri,356
+2024-01-07,Perro Max,Brit Care,70
+2024-01-07,Gato Luna,Pedigri,216
+2024-01-07,Perro Coco,Beneful,437
+2024-01-07,Gato Simba,Pedigri,365
+2024-01-08,Perro Max,Beneful,291
+2024-01-08,Gato Luna,Beneful,314
+2024-01-08,Perro Coco,Beneful,102
+2024-01-08,Gato Simba,Beneful,389
+2024-01-09,Perro Max,Brit Care,493
+2024-01-09,Gato Luna,Brit Care,477
+2024-01-09,Perro Coco,Pedigri,313
+2024-01-09,Gato Simba,Brit Care,84
+2024-01-10,Perro Max,Beneful,130
+2024-01-10,Gato Luna,Beneful,409
+2024-01-10,Perro Coco,Beneful,439
+2024-01-10,Gato Simba,Beneful,155
+2024-01-11,Perro Max,Beneful,240
+2024-01-11,Gato Luna,Beneful,267
+2024-01-11,Perro Coco,Beneful,251
+2024-01-11,Gato Simba,Beneful,319
+2024-01-12,Perro Max,Brit Care,353
+2024-01-12,Gato Luna,Brit Care,264
+2024-01-12,Perro Coco,Pedigri,239
+2024-01-12,Gato Simba,Pedigri,257
+2024-01-13,Perro Max,Pedigri,387
+2024-01-13,Gato Luna,Brit Care,102
+2024-01-13,Perro Coco,Beneful,266
+2024-01-13,Gato Simba,Pedigri,90
+2024-01-14,Perro Max,Pedigri,64
+2024-01-14,Gato Luna,Pedigri,114
+2024-01-14,Perro Coco,Pedigri,376
+2024-01-14,Gato Simba,Pedigri,393
+2024-01-15,Perro Max,Pedigri,185
+2024-01-15,Gato Luna,Brit Care,188
+2024-01-15,Perro Coco,Brit Care,130
+2024-01-15,Gato Simba,Brit Care,468
+2024-01-16,Perro Max,Pedigri,428
+2024-01-16,Gato Luna,Pedigri,280
+2024-01-16,Perro Coco,Beneful,90
+2024-01-16,Gato Simba,Brit Care,250
+2024-01-17,Perro Max,Beneful,82
+2024-01-17,Gato Luna,Brit Care,456
+2024-01-17,Perro Coco,Beneful,265
+2024-01-17,Gato Simba,Pedigri,148
+2024-01-18,Perro Max,Beneful,84
+2024-01-18,Gato Luna,Pedigri,276
+2024-01-18,Perro Coco,Pedigri,480
+2024-01-18,Gato Simba,Beneful,180
+2024-01-19,Perro Max,Pedigri,54
+2024-01-19,Gato Luna,Beneful,304
+2024-01-19,Perro Coco,Beneful,408
+2024-01-19,Gato Simba,Brit Care,442
+2024-01-20,Perro Max,Brit Care,64
+2024-01-20,Gato Luna,Beneful,91
+2024-01-20,Perro Coco,Pedigri,228
+2024-01-20,Gato Simba,Brit Care,401
+2024-01-21,Perro Max,Brit Care,290
+2024-01-21,Gato Luna,Pedigri,145
+2024-01-21,Perro Coco,Beneful,456
+2024-01-21,Gato Simba,Brit Care,286
+2024-01-22,Perro Max,Brit Care,220
+2024-01-22,Gato Luna,Pedigri,85
+2024-01-22,Perro Coco,Pedigri,209
+2024-01-22,Gato Simba,Brit Care,236
+2024-01-23,Perro Max,Brit Care,135
+2024-01-23,Gato Luna,Beneful,219
+2024-01-23,Perro Coco,Pedigri,111
+2024-01-23,Gato Simba,Pedigri,183
+2024-01-24,Perro Max,Beneful,495
+2024-01-24,Gato Luna,Brit Care,177
+2024-01-24,Perro Coco,Beneful,397
+2024-01-24,Gato Simba,Pedigri,280
+2024-01-25,Perro Max,Beneful,274
+2024-01-25,Gato Luna,Pedigri,426
+2024-01-25,Perro Coco,Brit Care,495
+2024-01-25,Gato Simba,Pedigri,165
+2024-01-26,Perro Max,Pedigri,282
+2024-01-26,Gato Luna,Brit Care,408
+2024-01-26,Perro Coco,Beneful,460
+2024-01-26,Gato Simba,Pedigri,367
+2024-01-27,Perro Max,Pedigri,274
+2024-01-27,Gato Luna,Brit Care,283
+2024-01-27,Perro Coco,Brit Care,364
+2024-01-27,Gato Simba,Beneful,209
+2024-01-28,Perro Max,Pedigri,229
+2024-01-28,Gato Luna,Pedigri,367
+2024-01-28,Perro Coco,Pedigri,491
+2024-01-28,Gato Simba,Beneful,344
+2024-01-29,Perro Max,Beneful,436
+2024-01-29,Gato Luna,Pedigri,150
+2024-01-29,Perro Coco,Pedigri,489
+2024-01-29,Gato Simba,Pedigri,236
+2024-01-30,Perro Max,Pedigri,51
+2024-01-30,Gato Luna,Beneful,269
+2024-01-30,Perro Coco,Beneful,392
+2024-01-30,Gato Simba,Pedigri,273
+2024-01-31,Perro Max,Pedigri,434
+2024-01-31,Gato Luna,Brit Care,175
+2024-01-31,Perro Coco,Beneful,102
+2024-01-31,Gato Simba,Beneful,209
+2024-02-01,Perro Max,Beneful,465
+2024-02-01,Gato Luna,Brit Care,373
+2024-02-01,Perro Coco,Brit Care,252
+2024-02-01,Gato Simba,Brit Care,450
+2024-02-02,Perro Max,Brit Care,343
+2024-02-02,Gato Luna,Pedigri,421
+2024-02-02,Perro Coco,Beneful,247
+2024-02-02,Gato Simba,Beneful,444
+2024-02-03,Perro Max,Brit Care,289
+2024-02-03,Gato Luna,Pedigri,250
+2024-02-03,Perro Coco,Brit Care,375
+2024-02-03,Gato Simba,Pedigri,308
+2024-02-04,Perro Max,Brit Care,469
+2024-02-04,Gato Luna,Brit Care,395
+2024-02-04,Perro Coco,Brit Care,196
+2024-02-04,Gato Simba,Brit Care,357
+2024-02-05,Perro Max,Pedigri,466
+2024-02-05,Gato Luna,Brit Care,387
+2024-02-05,Perro Coco,Pedigri,316
+2024-02-05,Gato Simba,Pedigri,483
+2024-02-06,Perro Max,Brit Care,464
+2024-02-06,Gato Luna,Beneful,347
+2024-02-06,Perro Coco,Brit Care,312
+2024-02-06,Gato Simba,Beneful,161
+2024-02-07,Perro Max,Pedigri,109
+2024-02-07,Gato Luna,Pedigri,51
+2024-02-07,Perro Coco,Pedigri,353
+2024-02-07,Gato Simba,Beneful,189
+2024-02-08,Perro Max,Pedigri,86
+2024-02-08,Gato Luna,Brit Care,58
+2024-02-08,Perro Coco,Pedigri,148
+2024-02-08,Gato Simba,Brit Care,353
+2024-02-09,Perro Max,Brit Care,453
+2024-02-09,Gato Luna,Beneful,169
+2024-02-09,Perro Coco,Pedigri,457
+2024-02-09,Gato Simba,Brit Care,162
+2024-02-10,Perro Max,Beneful,153
+2024-02-10,Gato Luna,Beneful,276
+2024-02-10,Perro Coco,Beneful,148
+2024-02-10,Gato Simba,Pedigri,398
+2024-02-11,Perro Max,Beneful,433
+2024-02-11,Gato Luna,Beneful,387
+2024-02-11,Perro Coco,Beneful,359
+2024-02-11,Gato Simba,Brit Care,257
+2024-02-12,Perro Max,Pedigri,218
+2024-02-12,Gato Luna,Pedigri,117
+2024-02-12,Perro Coco,Pedigri,447
+2024-02-12,Gato Simba,Pedigri,353
+2024-02-13,Perro Max,Brit Care,244
+2024-02-13,Gato Luna,Pedigri,177
+2024-02-13,Perro Coco,Pedigri,225
+2024-02-13,Gato Simba,Brit Care,420
+2024-02-14,Perro Max,Beneful,424
+2024-02-14,Gato Luna,Beneful,287
+2024-02-14,Perro Coco,Beneful,87
+2024-02-14,Gato Simba,Beneful,414
+2024-02-15,Perro Max,Brit Care,487
+2024-02-15,Gato Luna,Brit Care,76
+2024-02-15,Perro Coco,Beneful,326
+2024-02-15,Gato Simba,Beneful,146
+2024-02-16,Perro Max,Brit Care,497
+2024-02-16,Gato Luna,Pedigri,366
+2024-02-16,Perro Coco,Brit Care,53
+2024-02-16,Gato Simba,Brit Care,241
+2024-02-17,Perro Max,Pedigri,66
+2024-02-17,Gato Luna,Beneful,95
+2024-02-17,Perro Coco,Pedigri,55
+2024-02-17,Gato Simba,Brit Care,429
+2024-02-18,Perro Max,Pedigri,86
+2024-02-18,Gato Luna,Pedigri,351
+2024-02-18,Perro Coco,Pedigri,144
+2024-02-18,Gato Simba,Brit Care,237
+2024-02-19,Perro Max,Pedigri,165
+2024-02-19,Gato Luna,Brit Care,302
+2024-02-19,Perro Coco,Pedigri,465
+2024-02-19,Gato Simba,Brit Care,210
+2024-02-20,Perro Max,Brit Care,177
+2024-02-20,Gato Luna,Beneful,330
+2024-02-20,Perro Coco,Beneful,272
+2024-02-20,Gato Simba,Beneful,107
+2024-02-21,Perro Max,Brit Care,409
+2024-02-21,Gato Luna,Beneful,329
+2024-02-21,Perro Coco,Beneful,337
+2024-02-21,Gato Simba,Brit Care,391
+2024-02-22,Perro Max,Brit Care,499
+2024-02-22,Gato Luna,Brit Care,204
+2024-02-22,Perro Coco,Beneful,435
+2024-02-22,Gato Simba,Beneful,322
+2024-02-23,Perro Max,Pedigri,442
+2024-02-23,Gato Luna,Brit Care,295
+2024-02-23,Perro Coco,Brit Care,219
+2024-02-23,Gato Simba,Brit Care,75
+2024-02-24,Perro Max,Brit Care,355
+2024-02-24,Gato Luna,Pedigri,457
+2024-02-24,Perro Coco,Pedigri,365
+2024-02-24,Gato Simba,Beneful,440
+2024-02-25,Perro Max,Pedigri,85
+2024-02-25,Gato Luna,Pedigri,69
+2024-02-25,Perro Coco,Pedigri,313
+2024-02-25,Gato Simba,Beneful,449
+2024-02-26,Perro Max,Beneful,420
+2024-02-26,Gato Luna,Brit Care,192
+2024-02-26,Perro Coco,Beneful,371
+2024-02-26,Gato Simba,Brit Care,496
+2024-02-27,Perro Max,Beneful,100
+2024-02-27,Gato Luna,Pedigri,235
+2024-02-27,Perro Coco,Brit Care,239
+2024-02-27,Gato Simba,Pedigri,199
+2024-02-28,Perro Max,Beneful,107
+2024-02-28,Gato Luna,Beneful,354
+2024-02-28,Perro Coco,Beneful,375
+2024-02-28,Gato Simba,Brit Care,103
+2024-02-29,Perro Max,Brit Care,493
+2024-02-29,Gato Luna,Pedigri,313
+2024-02-29,Perro Coco,Pedigri,109
+2024-02-29,Gato Simba,Pedigri,152
+2024-03-01,Perro Max,Beneful,414
+2024-03-01,Gato Luna,Beneful,96
+2024-03-01,Perro Coco,Brit Care,360
+2024-03-01,Gato Simba,Pedigri,419
+2024-03-02,Perro Max,Beneful,207
+2024-03-02,Gato Luna,Brit Care,194
+2024-03-02,Perro Coco,Brit Care,324
+2024-03-02,Gato Simba,Beneful,488
+2024-03-03,Perro Max,Beneful,278
+2024-03-03,Gato Luna,Beneful,166
+2024-03-03,Perro Coco,Beneful,328
+2024-03-03,Gato Simba,Brit Care,442
+2024-03-04,Perro Max,Pedigri,178
+2024-03-04,Gato Luna,Beneful,171
+2024-03-04,Perro Coco,Pedigri,288
+2024-03-04,Gato Simba,Beneful,145
+2024-03-05,Perro Max,Beneful,167
+2024-03-05,Gato Luna,Pedigri,286
+2024-03-05,Perro Coco,Pedigri,434
+2024-03-05,Gato Simba,Pedigri,241
+2024-03-06,Perro Max,Brit Care,118
+2024-03-06,Gato Luna,Beneful,398
+2024-03-06,Perro Coco,Brit Care,125
+2024-03-06,Gato Simba,Beneful,193
+2024-03-07,Perro Max,Brit Care,135
+2024-03-07,Gato Luna,Pedigri,334
+2024-03-07,Perro Coco,Beneful,269
+2024-03-07,Gato Simba,Pedigri,96
+2024-03-08,Perro Max,Pedigri,143
+2024-03-08,Gato Luna,Beneful,495
+2024-03-08,Perro Coco,Pedigri,253
+2024-03-08,Gato Simba,Beneful,481
+2024-03-09,Perro Max,Pedigri,88
+2024-03-09,Gato Luna,Pedigri,303
+2024-03-09,Perro Coco,Beneful,406
+2024-03-09,Gato Simba,Brit Care,299
+2024-03-10,Perro Max,Beneful,295
+2024-03-10,Gato Luna,Pedigri,149
+2024-03-10,Perro Coco,Beneful,229
+2024-03-10,Gato Simba,Brit Care,443
+2024-03-11,Perro Max,Beneful,196
+2024-03-11,Gato Luna,Beneful,145
+2024-03-11,Perro Coco,Pedigri,374
+2024-03-11,Gato Simba,Pedigri,53
+2024-03-12,Perro Max,Brit Care,307
+2024-03-12,Gato Luna,Pedigri,433
+2024-03-12,Perro Coco,Brit Care,389
+2024-03-12,Gato Simba,Beneful,212
+2024-03-13,Perro Max,Pedigri,466
+2024-03-13,Gato Luna,Pedigri,228
+2024-03-13,Perro Coco,Brit Care,150
+2024-03-13,Gato Simba,Brit Care,114
+2024-03-14,Perro Max,Pedigri,217
+2024-03-14,Gato Luna,Beneful,92
+2024-03-14,Perro Coco,Pedigri,446
+2024-03-14,Gato Simba,Brit Care,351
+2024-03-15,Perro Max,Beneful,302
+2024-03-15,Gato Luna,Brit Care,291
+2024-03-15,Perro Coco,Brit Care,264
+2024-03-15,Gato Simba,Pedigri,139
+2024-03-16,Perro Max,Pedigri,459
+2024-03-16,Gato Luna,Beneful,139
+2024-03-16,Perro Coco,Beneful,467
+2024-03-16,Gato Simba,Brit Care,154
+2024-03-17,Perro Max,Brit Care,245
+2024-03-17,Gato Luna,Beneful,163
+2024-03-17,Perro Coco,Pedigri,124
+2024-03-17,Gato Simba,Pedigri,425
+2024-03-18,Perro Max,Pedigri,326
+2024-03-18,Gato Luna,Pedigri,298
+2024-03-18,Perro Coco,Beneful,406
+2024-03-18,Gato Simba,Pedigri,457
+2024-03-19,Perro Max,Brit Care,226
+2024-03-19,Gato Luna,Brit Care,85
+2024-03-19,Perro Coco,Beneful,145
+2024-03-19,Gato Simba,Brit Care,239
+2024-03-20,Perro Max,Pedigri,317
+2024-03-20,Gato Luna,Pedigri,232
+2024-03-20,Perro Coco,Pedigri,328
+2024-03-20,Gato Simba,Pedigri,404
+2024-03-21,Perro Max,Pedigri,335
+2024-03-21,Gato Luna,Pedigri,418
+2024-03-21,Perro Coco,Beneful,133
+2024-03-21,Gato Simba,Pedigri,391
+2024-03-22,Perro Max,Pedigri,236
+2024-03-22,Gato Luna,Brit Care,226
+2024-03-22,Perro Coco,Pedigri,282
+2024-03-22,Gato Simba,Brit Care,125
+2024-03-23,Perro Max,Pedigri,333
+2024-03-23,Gato Luna,Beneful,272
+2024-03-23,Perro Coco,Brit Care,416
+2024-03-23,Gato Simba,Pedigri,118
+2024-03-24,Perro Max,Brit Care,445
+2024-03-24,Gato Luna,Pedigri,485
+2024-03-24,Perro Coco,Brit Care,102
+2024-03-24,Gato Simba,Brit Care,193
+2024-03-25,Perro Max,Pedigri,88
+2024-03-25,Gato Luna,Pedigri,230
+2024-03-25,Perro Coco,Beneful,235
+2024-03-25,Gato Simba,Brit Care,447
+2024-03-26,Perro Max,Brit Care,171
+2024-03-26,Gato Luna,Pedigri,212
+2024-03-26,Perro Coco,Brit Care,270
+2024-03-26,Gato Simba,Brit Care,380
+2024-03-27,Perro Max,Beneful,288
+2024-03-27,Gato Luna,Pedigri,123
+2024-03-27,Perro Coco,Beneful,450
+2024-03-27,Gato Simba,Pedigri,279
+2024-03-28,Perro Max,Brit Care,223
+2024-03-28,Gato Luna,Pedigri,217
+2024-03-28,Perro Coco,Beneful,442
+2024-03-28,Gato Simba,Beneful,332
+2024-03-29,Perro Max,Beneful,243
+2024-03-29,Gato Luna,Pedigri,78
+2024-03-29,Perro Coco,Pedigri,471
+2024-03-29,Gato Simba,Brit Care,185
+2024-03-30,Perro Max,Pedigri,370
+2024-03-30,Gato Luna,Beneful,194
+2024-03-30,Perro Coco,Brit Care,376
+2024-03-30,Gato Simba,Pedigri,350
+2024-03-31,Perro Max,Beneful,301
+2024-03-31,Gato Luna,Brit Care,324
+2024-03-31,Perro Coco,Pedigri,413
+2024-03-31,Gato Simba,Beneful,216
+2024-04-01,Perro Max,Brit Care,251
+2024-04-01,Gato Luna,Beneful,68
+2024-04-01,Perro Coco,Brit Care,175
+2024-04-01,Gato Simba,Brit Care,222
+2024-04-02,Perro Max,Pedigri,291
+2024-04-02,Gato Luna,Beneful,107
+2024-04-02,Perro Coco,Pedigri,432
+2024-04-02,Gato Simba,Pedigri,472
+2024-04-03,Perro Max,Pedigri,436
+2024-04-03,Gato Luna,Pedigri,397
+2024-04-03,Perro Coco,Beneful,240
+2024-04-03,Gato Simba,Pedigri,458
+2024-04-04,Perro Max,Pedigri,471
+2024-04-04,Gato Luna,Pedigri,183
+2024-04-04,Perro Coco,Beneful,93
+2024-04-04,Gato Simba,Pedigri,209
+2024-04-05,Perro Max,Pedigri,366
+2024-04-05,Gato Luna,Brit Care,198
+2024-04-05,Perro Coco,Beneful,262
+2024-04-05,Gato Simba,Brit Care,301
+2024-04-06,Perro Max,Pedigri,213
+2024-04-06,Gato Luna,Brit Care,196
+2024-04-06,Perro Coco,Pedigri,451
+2024-04-06,Gato Simba,Brit Care,282
+2024-04-07,Perro Max,Pedigri,63
+2024-04-07,Gato Luna,Brit Care,464
+2024-04-07,Perro Coco,Pedigri,422
+2024-04-07,Gato Simba,Beneful,423
+2024-04-08,Perro Max,Brit Care,193
+2024-04-08,Gato Luna,Brit Care,490
+2024-04-08,Perro Coco,Brit Care,61
+2024-04-08,Gato Simba,Beneful,273
+2024-04-09,Perro Max,Beneful,457
+2024-04-09,Gato Luna,Pedigri,57
+2024-04-09,Perro Coco,Beneful,397
+2024-04-09,Gato Simba,Beneful,185
+2024-04-10,Perro Max,Beneful,365
+2024-04-10,Gato Luna,Beneful,77
+2024-04-10,Perro Coco,Pedigri,90
+2024-04-10,Gato Simba,Brit Care,496
+2024-04-11,Perro Max,Pedigri,250
+2024-04-11,Gato Luna,Pedigri,261
+2024-04-11,Perro Coco,Pedigri,269
+2024-04-11,Gato Simba,Pedigri,446
+2024-04-12,Perro Max,Beneful,84
+2024-04-12,Gato Luna,Pedigri,439
+2024-04-12,Perro Coco,Beneful,420
+2024-04-12,Gato Simba,Pedigri,352
+2024-04-13,Perro Max,Pedigri,499
+2024-04-13,Gato Luna,Beneful,361
+2024-04-13,Perro Coco,Beneful,291
+2024-04-13,Gato Simba,Brit Care,414
+2024-04-14,Perro Max,Pedigri,168
+2024-04-14,Gato Luna,Pedigri,423
+2024-04-14,Perro Coco,Pedigri,195
+2024-04-14,Gato Simba,Brit Care,226
+2024-04-15,Perro Max,Brit Care,390
+2024-04-15,Gato Luna,Beneful,112
+2024-04-15,Perro Coco,Pedigri,391
+2024-04-15,Gato Simba,Brit Care,332
+2024-04-16,Perro Max,Pedigri,466
+2024-04-16,Gato Luna,Beneful,154
+2024-04-16,Perro Coco,Brit Care,434
+2024-04-16,Gato Simba,Pedigri,360
+2024-04-17,Perro Max,Beneful,246
+2024-04-17,Gato Luna,Brit Care,182
+2024-04-17,Perro Coco,Beneful,308
+2024-04-17,Gato Simba,Pedigri,72
+2024-04-18,Perro Max,Pedigri,102
+2024-04-18,Gato Luna,Pedigri,251
+2024-04-18,Perro Coco,Beneful,132
+2024-04-18,Gato Simba,Pedigri,134
+2024-04-19,Perro Max,Beneful,415
+2024-04-19,Gato Luna,Pedigri,100
+2024-04-19,Perro Coco,Pedigri,254
+2024-04-19,Gato Simba,Beneful,498
+2024-04-20,Perro Max,Pedigri,337
+2024-04-20,Gato Luna,Beneful,397
+2024-04-20,Perro Coco,Brit Care,121
+2024-04-20,Gato Simba,Brit Care,203
+2024-04-21,Perro Max,Beneful,211
+2024-04-21,Gato Luna,Beneful,167
+2024-04-21,Perro Coco,Brit Care,428
+2024-04-21,Gato Simba,Beneful,317
+2024-04-22,Perro Max,Pedigri,103
+2024-04-22,Gato Luna,Pedigri,271
+2024-04-22,Perro Coco,Brit Care,362
+2024-04-22,Gato Simba,Pedigri,161
+2024-04-23,Perro Max,Brit Care,352
+2024-04-23,Gato Luna,Brit Care,256
+2024-04-23,Perro Coco,Pedigri,390
+2024-04-23,Gato Simba,Beneful,115
+2024-04-24,Perro Max,Brit Care,484
+2024-04-24,Gato Luna,Brit Care,471
+2024-04-24,Perro Coco,Beneful,343
+2024-04-24,Gato Simba,Beneful,147
+2024-04-25,Perro Max,Beneful,335
+2024-04-25,Gato Luna,Brit Care,396
+2024-04-25,Perro Coco,Brit Care,496
+2024-04-25,Gato Simba,Beneful,357
+2024-04-26,Perro Max,Pedigri,215
+2024-04-26,Gato Luna,Pedigri,384
+2024-04-26,Perro Coco,Beneful,296
+2024-04-26,Gato Simba,Beneful,100
+2024-04-27,Perro Max,Pedigri,182
+2024-04-27,Gato Luna,Pedigri,437
+2024-04-27,Perro Coco,Beneful,233
+2024-04-27,Gato Simba,Pedigri,379
+2024-04-28,Perro Max,Pedigri,389
+2024-04-28,Gato Luna,Pedigri,83
+2024-04-28,Perro Coco,Beneful,102
+2024-04-28,Gato Simba,Beneful,254
+2024-04-29,Perro Max,Beneful,284
+2024-04-29,Gato Luna,Brit Care,289
+2024-04-29,Perro Coco,Brit Care,420
+2024-04-29,Gato Simba,Brit Care,298
+2024-04-30,Perro Max,Brit Care,232
+2024-04-30,Gato Luna,Brit Care,423
+2024-04-30,Perro Coco,Pedigri,244
+2024-04-30,Gato Simba,Brit Care,204
+2024-05-01,Perro Max,Pedigri,209
+2024-05-01,Gato Luna,Beneful,110
+2024-05-01,Perro Coco,Beneful,100
+2024-05-01,Gato Simba,Brit Care,326
+2024-05-02,Perro Max,Pedigri,141
+2024-05-02,Gato Luna,Beneful,366
+2024-05-02,Perro Coco,Beneful,454
+2024-05-02,Gato Simba,Beneful,50
+2024-05-03,Perro Max,Pedigri,282
+2024-05-03,Gato Luna,Beneful,95
+2024-05-03,Perro Coco,Beneful,482
+2024-05-03,Gato Simba,Beneful,267
+2024-05-04,Perro Max,Pedigri,460
+2024-05-04,Gato Luna,Pedigri,331
+2024-05-04,Perro Coco,Pedigri,96
+2024-05-04,Gato Simba,Pedigri,263
+2024-05-05,Perro Max,Brit Care,105
+2024-05-05,Gato Luna,Beneful,156
+2024-05-05,Perro Coco,Brit Care,97
+2024-05-05,Gato Simba,Pedigri,386
+2024-05-06,Perro Max,Beneful,341
+2024-05-06,Gato Luna,Pedigri,57
+2024-05-06,Perro Coco,Pedigri,404
+2024-05-06,Gato Simba,Pedigri,229
+2024-05-07,Perro Max,Brit Care,352
+2024-05-07,Gato Luna,Brit Care,105
+2024-05-07,Perro Coco,Beneful,63
+2024-05-07,Gato Simba,Beneful,77
+2024-05-08,Perro Max,Brit Care,127
+2024-05-08,Gato Luna,Beneful,414
+2024-05-08,Perro Coco,Beneful,63
+2024-05-08,Gato Simba,Brit Care,361
+2024-05-09,Perro Max,Brit Care,56
+2024-05-09,Gato Luna,Brit Care,160
+2024-05-09,Perro Coco,Brit Care,287
+2024-05-09,Gato Simba,Brit Care,288
+2024-05-10,Perro Max,Pedigri,323
+2024-05-10,Gato Luna,Beneful,343
+2024-05-10,Perro Coco,Brit Care,420
+2024-05-10,Gato Simba,Brit Care,241
+2024-05-11,Perro Max,Pedigri,168
+2024-05-11,Gato Luna,Pedigri,77
+2024-05-11,Perro Coco,Beneful,88
+2024-05-11,Gato Simba,Pedigri,322
+2024-05-12,Perro Max,Brit Care,135
+2024-05-12,Gato Luna,Beneful,175
+2024-05-12,Perro Coco,Pedigri,194
+2024-05-12,Gato Simba,Pedigri,261
+2024-05-13,Perro Max,Pedigri,117
+2024-05-13,Gato Luna,Beneful,116
+2024-05-13,Perro Coco,Pedigri,158
+2024-05-13,Gato Simba,Beneful,160
+2024-05-14,Perro Max,Brit Care,83
+2024-05-14,Gato Luna,Brit Care,313
+2024-05-14,Perro Coco,Pedigri,285
+2024-05-14,Gato Simba,Brit Care,91
+2024-05-15,Perro Max,Pedigri,150
+2024-05-15,Gato Luna,Beneful,229
+2024-05-15,Perro Coco,Beneful,369
+2024-05-15,Gato Simba,Beneful,492
+2024-05-16,Perro Max,Brit Care,414
+2024-05-16,Gato Luna,Beneful,278
+2024-05-16,Perro Coco,Pedigri,338
+2024-05-16,Gato Simba,Pedigri,199
+2024-05-17,Perro Max,Pedigri,247
+2024-05-17,Gato Luna,Beneful,161
+2024-05-17,Perro Coco,Beneful,380
+2024-05-17,Gato Simba,Beneful,367
+2024-05-18,Perro Max,Beneful,144
+2024-05-18,Gato Luna,Brit Care,186
+2024-05-18,Perro Coco,Brit Care,436
+2024-05-18,Gato Simba,Brit Care,80
+2024-05-19,Perro Max,Pedigri,85
+2024-05-19,Gato Luna,Brit Care,55
+2024-05-19,Perro Coco,Beneful,269
+2024-05-19,Gato Simba,Brit Care,53
+2024-05-20,Perro Max,Brit Care,183
+2024-05-20,Gato Luna,Beneful,418
+2024-05-20,Perro Coco,Beneful,484
+2024-05-20,Gato Simba,Beneful,490
+2024-05-21,Perro Max,Beneful,384
+2024-05-21,Gato Luna,Brit Care,441
+2024-05-21,Perro Coco,Beneful,484
+2024-05-21,Gato Simba,Pedigri,349
+2024-05-22,Perro Max,Pedigri,375
+2024-05-22,Gato Luna,Beneful,167
+2024-05-22,Perro Coco,Brit Care,261
+2024-05-22,Gato Simba,Pedigri,69
+2024-05-23,Perro Max,Pedigri,189
+2024-05-23,Gato Luna,Brit Care,50
+2024-05-23,Perro Coco,Beneful,191
+2024-05-23,Gato Simba,Beneful,342
+2024-05-24,Perro Max,Beneful,188
+2024-05-24,Gato Luna,Brit Care,405
+2024-05-24,Perro Coco,Pedigri,308
+2024-05-24,Gato Simba,Pedigri,439
+2024-05-25,Perro Max,Beneful,59
+2024-05-25,Gato Luna,Pedigri,456
+2024-05-25,Perro Coco,Beneful,221
+2024-05-25,Gato Simba,Beneful,62
+2024-05-26,Perro Max,Beneful,133
+2024-05-26,Gato Luna,Pedigri,368
+2024-05-26,Perro Coco,Pedigri,378
+2024-05-26,Gato Simba,Pedigri,314
+2024-05-27,Perro Max,Brit Care,448
+2024-05-27,Gato Luna,Beneful,468
+2024-05-27,Perro Coco,Beneful,144
+2024-05-27,Gato Simba,Pedigri,118
+2024-05-28,Perro Max,Beneful,493
+2024-05-28,Gato Luna,Beneful,383
+2024-05-28,Perro Coco,Pedigri,425
+2024-05-28,Gato Simba,Brit Care,186
+2024-05-29,Perro Max,Beneful,125
+2024-05-29,Gato Luna,Brit Care,84
+2024-05-29,Perro Coco,Pedigri,345
+2024-05-29,Gato Simba,Beneful,109
+2024-05-30,Perro Max,Pedigri,377
+2024-05-30,Gato Luna,Brit Care,410
+2024-05-30,Perro Coco,Pedigri,319
+2024-05-30,Gato Simba,Beneful,340
+2024-05-31,Perro Max,Pedigri,214
+2024-05-31,Gato Luna,Pedigri,388
+2024-05-31,Perro Coco,Brit Care,127
+2024-05-31,Gato Simba,Beneful,111
+2024-06-01,Perro Max,Pedigri,286
+2024-06-01,Gato Luna,Beneful,138
+2024-06-01,Perro Coco,Beneful,345
+2024-06-01,Gato Simba,Brit Care,153
+2024-06-02,Perro Max,Beneful,337
+2024-06-02,Gato Luna,Brit Care,174
+2024-06-02,Perro Coco,Beneful,402
+2024-06-02,Gato Simba,Brit Care,112
+2024-06-03,Perro Max,Brit Care,202
+2024-06-03,Gato Luna,Pedigri,274
+2024-06-03,Perro Coco,Brit Care,499
+2024-06-03,Gato Simba,Beneful,358
+2024-06-04,Perro Max,Brit Care,88
+2024-06-04,Gato Luna,Brit Care,247
+2024-06-04,Perro Coco,Beneful,116
+2024-06-04,Gato Simba,Brit Care,228
+2024-06-05,Perro Max,Beneful,497
+2024-06-05,Gato Luna,Brit Care,160
+2024-06-05,Perro Coco,Pedigri,338
+2024-06-05,Gato Simba,Beneful,280
+2024-06-06,Perro Max,Brit Care,469
+2024-06-06,Gato Luna,Pedigri,87
+2024-06-06,Perro Coco,Pedigri,146
+2024-06-06,Gato Simba,Pedigri,460
+2024-06-07,Perro Max,Brit Care,338
+2024-06-07,Gato Luna,Beneful,245
+2024-06-07,Perro Coco,Beneful,371
+2024-06-07,Gato Simba,Beneful,54
+2024-06-08,Perro Max,Brit Care,379
+2024-06-08,Gato Luna,Pedigri,167
+2024-06-08,Perro Coco,Beneful,446
+2024-06-08,Gato Simba,Brit Care,352
+2024-06-09,Perro Max,Pedigri,265
+2024-06-09,Gato Luna,Brit Care,206
+2024-06-09,Perro Coco,Pedigri,206
+2024-06-09,Gato Simba,Brit Care,373
+2024-06-10,Perro Max,Pedigri,179
+2024-06-10,Gato Luna,Brit Care,144
+2024-06-10,Perro Coco,Brit Care,292
+2024-06-10,Gato Simba,Beneful,348
+2024-06-11,Perro Max,Brit Care,118
+2024-06-11,Gato Luna,Brit Care,303
+2024-06-11,Perro Coco,Beneful,409
+2024-06-11,Gato Simba,Beneful,183
+2024-06-12,Perro Max,Brit Care,352
+2024-06-12,Gato Luna,Beneful,351
+2024-06-12,Perro Coco,Brit Care,445
+2024-06-12,Gato Simba,Beneful,190
+2024-06-13,Perro Max,Beneful,259
+2024-06-13,Gato Luna,Pedigri,160
+2024-06-13,Perro Coco,Brit Care,405
+2024-06-13,Gato Simba,Pedigri,425
+2024-06-14,Perro Max,Pedigri,377
+2024-06-14,Gato Luna,Brit Care,155
+2024-06-14,Perro Coco,Pedigri,141
+2024-06-14,Gato Simba,Brit Care,427
+2024-06-15,Perro Max,Pedigri,100
+2024-06-15,Gato Luna,Pedigri,345
+2024-06-15,Perro Coco,Pedigri,263
+2024-06-15,Gato Simba,Brit Care,456
+2024-06-16,Perro Max,Pedigri,351
+2024-06-16,Gato Luna,Pedigri,454
+2024-06-16,Perro Coco,Beneful,159
+2024-06-16,Gato Simba,Beneful,362
+2024-06-17,Perro Max,Pedigri,368
+2024-06-17,Gato Luna,Beneful,104
+2024-06-17,Perro Coco,Brit Care,473
+2024-06-17,Gato Simba,Brit Care,198
+2024-06-18,Perro Max,Brit Care,358
+2024-06-18,Gato Luna,Pedigri,251
+2024-06-18,Perro Coco,Pedigri,166
+2024-06-18,Gato Simba,Beneful,474
+2024-06-19,Perro Max,Brit Care,112
+2024-06-19,Gato Luna,Pedigri,139
+2024-06-19,Perro Coco,Brit Care,343
+2024-06-19,Gato Simba,Beneful,440
+2024-06-20,Perro Max,Beneful,467
+2024-06-20,Gato Luna,Brit Care,66
+2024-06-20,Perro Coco,Brit Care,492
+2024-06-20,Gato Simba,Brit Care,228
+2024-06-21,Perro Max,Beneful,201
+2024-06-21,Gato Luna,Pedigri,229
+2024-06-21,Perro Coco,Beneful,393
+2024-06-21,Gato Simba,Pedigri,226
+2024-06-22,Perro Max,Pedigri,112
+2024-06-22,Gato Luna,Brit Care,199
+2024-06-22,Perro Coco,Beneful,205
+2024-06-22,Gato Simba,Beneful,98
+2024-06-23,Perro Max,Brit Care,386
+2024-06-23,Gato Luna,Pedigri,226
+2024-06-23,Perro Coco,Beneful,391
+2024-06-23,Gato Simba,Brit Care,238
+2024-06-24,Perro Max,Pedigri,376
+2024-06-24,Gato Luna,Pedigri,273
+2024-06-24,Perro Coco,Pedigri,264
+2024-06-24,Gato Simba,Brit Care,428
+2024-06-25,Perro Max,Brit Care,367
+2024-06-25,Gato Luna,Beneful,334
+2024-06-25,Perro Coco,Pedigri,478
+2024-06-25,Gato Simba,Pedigri,335
+2024-06-26,Perro Max,Brit Care,67
+2024-06-26,Gato Luna,Pedigri,127
+2024-06-26,Perro Coco,Brit Care,224
+2024-06-26,Gato Simba,Beneful,243
+2024-06-27,Perro Max,Beneful,162
+2024-06-27,Gato Luna,Beneful,271
+2024-06-27,Perro Coco,Beneful,484
+2024-06-27,Gato Simba,Brit Care,181
+2024-06-28,Perro Max,Pedigri,313
+2024-06-28,Gato Luna,Pedigri,104
+2024-06-28,Perro Coco,Brit Care,180
+2024-06-28,Gato Simba,Beneful,415
+2024-06-29,Perro Max,Beneful,429
+2024-06-29,Gato Luna,Pedigri,136
+2024-06-29,Perro Coco,Brit Care,337
+2024-06-29,Gato Simba,Beneful,440
+2024-06-30,Perro Max,Pedigri,57
+2024-06-30,Gato Luna,Pedigri,362
+2024-06-30,Perro Coco,Brit Care,372
+2024-06-30,Gato Simba,Brit Care,492
+2024-07-01,Perro Max,Brit Care,377
+2024-07-01,Gato Luna,Beneful,298
+2024-07-01,Perro Coco,Brit Care,278
+2024-07-01,Gato Simba,Brit Care,100
+2024-07-02,Perro Max,Pedigri,141
+2024-07-02,Gato Luna,Brit Care,313
+2024-07-02,Perro Coco,Beneful,340
+2024-07-02,Gato Simba,Beneful,337
+2024-07-03,Perro Max,Beneful,449
+2024-07-03,Gato Luna,Pedigri,231
+2024-07-03,Perro Coco,Pedigri,447
+2024-07-03,Gato Simba,Brit Care,360
+2024-07-04,Perro Max,Beneful,56
+2024-07-04,Gato Luna,Beneful,312
+2024-07-04,Perro Coco,Pedigri,200
+2024-07-04,Gato Simba,Pedigri,196
+2024-07-05,Perro Max,Pedigri,452
+2024-07-05,Gato Luna,Pedigri,237
+2024-07-05,Perro Coco,Beneful,51
+2024-07-05,Gato Simba,Pedigri,352
+2024-07-06,Perro Max,Pedigri,453
+2024-07-06,Gato Luna,Brit Care,283
+2024-07-06,Perro Coco,Brit Care,435
+2024-07-06,Gato Simba,Brit Care,168
+2024-07-07,Perro Max,Pedigri,342
+2024-07-07,Gato Luna,Beneful,305
+2024-07-07,Perro Coco,Beneful,442
+2024-07-07,Gato Simba,Beneful,102
+2024-07-08,Perro Max,Brit Care,391
+2024-07-08,Gato Luna,Pedigri,251
+2024-07-08,Perro Coco,Beneful,169
+2024-07-08,Gato Simba,Brit Care,264
+2024-07-09,Perro Max,Pedigri,419
+2024-07-09,Gato Luna,Brit Care,258
+2024-07-09,Perro Coco,Beneful,58
+2024-07-09,Gato Simba,Beneful,286
+2024-07-10,Perro Max,Pedigri,408
+2024-07-10,Gato Luna,Pedigri,295
+2024-07-10,Perro Coco,Beneful,284
+2024-07-10,Gato Simba,Beneful,53
+2024-07-11,Perro Max,Beneful,491
+2024-07-11,Gato Luna,Pedigri,158
+2024-07-11,Perro Coco,Beneful,264
+2024-07-11,Gato Simba,Pedigri,124
+2024-07-12,Perro Max,Beneful,195
+2024-07-12,Gato Luna,Pedigri,91
+2024-07-12,Perro Coco,Pedigri,471
+2024-07-12,Gato Simba,Beneful,66
+2024-07-13,Perro Max,Pedigri,202
+2024-07-13,Gato Luna,Beneful,427
+2024-07-13,Perro Coco,Brit Care,166
+2024-07-13,Gato Simba,Beneful,391
+2024-07-14,Perro Max,Pedigri,76
+2024-07-14,Gato Luna,Pedigri,336
+2024-07-14,Perro Coco,Beneful,268
+2024-07-14,Gato Simba,Beneful,317
+2024-07-15,Perro Max,Pedigri,358
+2024-07-15,Gato Luna,Brit Care,443
+2024-07-15,Perro Coco,Pedigri,450
+2024-07-15,Gato Simba,Beneful,239
+2024-07-16,Perro Max,Beneful,95
+2024-07-16,Gato Luna,Beneful,359
+2024-07-16,Perro Coco,Brit Care,242
+2024-07-16,Gato Simba,Brit Care,230
+2024-07-17,Perro Max,Brit Care,331
+2024-07-17,Gato Luna,Pedigri,198
+2024-07-17,Perro Coco,Brit Care,345
+2024-07-17,Gato Simba,Brit Care,213
+2024-07-18,Perro Max,Pedigri,236
+2024-07-18,Gato Luna,Brit Care,281
+2024-07-18,Perro Coco,Brit Care,359
+2024-07-18,Gato Simba,Beneful,104
+2024-07-19,Perro Max,Brit Care,201
+2024-07-19,Gato Luna,Beneful,455
+2024-07-19,Perro Coco,Pedigri,361
+2024-07-19,Gato Simba,Pedigri,299
+2024-07-20,Perro Max,Brit Care,197
+2024-07-20,Gato Luna,Brit Care,276
+2024-07-20,Perro Coco,Brit Care,386
+2024-07-20,Gato Simba,Beneful,414
+2024-07-21,Perro Max,Brit Care,250
+2024-07-21,Gato Luna,Beneful,499
+2024-07-21,Perro Coco,Pedigri,122
+2024-07-21,Gato Simba,Pedigri,345
+2024-07-22,Perro Max,Pedigri,178
+2024-07-22,Gato Luna,Pedigri,110
+2024-07-22,Perro Coco,Brit Care,153
+2024-07-22,Gato Simba,Beneful,74
+2024-07-23,Perro Max,Brit Care,340
+2024-07-23,Gato Luna,Brit Care,278
+2024-07-23,Perro Coco,Brit Care,151
+2024-07-23,Gato Simba,Beneful,61
+2024-07-24,Perro Max,Brit Care,150
+2024-07-24,Gato Luna,Brit Care,354
+2024-07-24,Perro Coco,Pedigri,66
+2024-07-24,Gato Simba,Beneful,106
+2024-07-25,Perro Max,Brit Care,352
+2024-07-25,Gato Luna,Beneful,129
+2024-07-25,Perro Coco,Brit Care,313
+2024-07-25,Gato Simba,Brit Care,198
+2024-07-26,Perro Max,Pedigri,264
+2024-07-26,Gato Luna,Pedigri,423
+2024-07-26,Perro Coco,Beneful,249
+2024-07-26,Gato Simba,Pedigri,138
+2024-07-27,Perro Max,Brit Care,108
+2024-07-27,Gato Luna,Beneful,414
+2024-07-27,Perro Coco,Beneful,96
+2024-07-27,Gato Simba,Beneful,65
+2024-07-28,Perro Max,Brit Care,450
+2024-07-28,Gato Luna,Brit Care,331
+2024-07-28,Perro Coco,Pedigri,135
+2024-07-28,Gato Simba,Beneful,440
+2024-07-29,Perro Max,Beneful,384
+2024-07-29,Gato Luna,Pedigri,56
+2024-07-29,Perro Coco,Pedigri,420
+2024-07-29,Gato Simba,Beneful,364
+2024-07-30,Perro Max,Brit Care,131
+2024-07-30,Gato Luna,Brit Care,421
+2024-07-30,Perro Coco,Brit Care,451
+2024-07-30,Gato Simba,Brit Care,152
+2024-07-31,Perro Max,Pedigri,63
+2024-07-31,Gato Luna,Brit Care,201
+2024-07-31,Perro Coco,Brit Care,157
+2024-07-31,Gato Simba,Pedigri,147
+2024-08-01,Perro Max,Brit Care,342
+2024-08-01,Gato Luna,Brit Care,473
+2024-08-01,Perro Coco,Beneful,232
+2024-08-01,Gato Simba,Brit Care,413
+2024-08-02,Perro Max,Brit Care,64
+2024-08-02,Gato Luna,Pedigri,53
+2024-08-02,Perro Coco,Pedigri,458
+2024-08-02,Gato Simba,Pedigri,259
+2024-08-03,Perro Max,Pedigri,65
+2024-08-03,Gato Luna,Pedigri,475
+2024-08-03,Perro Coco,Beneful,499
+2024-08-03,Gato Simba,Brit Care,276
+2024-08-04,Perro Max,Beneful,83
+2024-08-04,Gato Luna,Beneful,300
+2024-08-04,Perro Coco,Brit Care,318
+2024-08-04,Gato Simba,Pedigri,323
+2024-08-05,Perro Max,Brit Care,428
+2024-08-05,Gato Luna,Brit Care,351
+2024-08-05,Perro Coco,Pedigri,495
+2024-08-05,Gato Simba,Pedigri,367
+2024-08-06,Perro Max,Pedigri,285
+2024-08-06,Gato Luna,Pedigri,321
+2024-08-06,Perro Coco,Brit Care,426
+2024-08-06,Gato Simba,Beneful,463
+2024-08-07,Perro Max,Pedigri,408
+2024-08-07,Gato Luna,Pedigri,114
+2024-08-07,Perro Coco,Beneful,226
+2024-08-07,Gato Simba,Brit Care,478
+2024-08-08,Perro Max,Beneful,425
+2024-08-08,Gato Luna,Beneful,373
+2024-08-08,Perro Coco,Beneful,495
+2024-08-08,Gato Simba,Pedigri,202
+2024-08-09,Perro Max,Pedigri,486
+2024-08-09,Gato Luna,Beneful,122
+2024-08-09,Perro Coco,Brit Care,354
+2024-08-09,Gato Simba,Pedigri,393
+2024-08-10,Perro Max,Brit Care,342
+2024-08-10,Gato Luna,Pedigri,476
+2024-08-10,Perro Coco,Beneful,344
+2024-08-10,Gato Simba,Brit Care,351
+2024-08-11,Perro Max,Brit Care,111
+2024-08-11,Gato Luna,Pedigri,275
+2024-08-11,Perro Coco,Pedigri,248
+2024-08-11,Gato Simba,Brit Care,121
+2024-08-12,Perro Max,Pedigri,112
+2024-08-12,Gato Luna,Beneful,422
+2024-08-12,Perro Coco,Brit Care,415
+2024-08-12,Gato Simba,Beneful,156
+2024-08-13,Perro Max,Beneful,362
+2024-08-13,Gato Luna,Beneful,474
+2024-08-13,Perro Coco,Pedigri,308
+2024-08-13,Gato Simba,Beneful,54
+2024-08-14,Perro Max,Pedigri,103
+2024-08-14,Gato Luna,Brit Care,264
+2024-08-14,Perro Coco,Pedigri,58
+2024-08-14,Gato Simba,Brit Care,69
+2024-08-15,Perro Max,Beneful,290
+2024-08-15,Gato Luna,Pedigri,428
+2024-08-15,Perro Coco,Beneful,468
+2024-08-15,Gato Simba,Beneful,387
+2024-08-16,Perro Max,Beneful,194
+2024-08-16,Gato Luna,Brit Care,209
+2024-08-16,Perro Coco,Brit Care,318
+2024-08-16,Gato Simba,Pedigri,138
+2024-08-17,Perro Max,Pedigri,117
+2024-08-17,Gato Luna,Beneful,406
+2024-08-17,Perro Coco,Beneful,316
+2024-08-17,Gato Simba,Pedigri,489
+2024-08-18,Perro Max,Brit Care,172
+2024-08-18,Gato Luna,Pedigri,186
+2024-08-18,Perro Coco,Brit Care,458
+2024-08-18,Gato Simba,Beneful,381
+2024-08-19,Perro Max,Beneful,58
+2024-08-19,Gato Luna,Brit Care,89
+2024-08-19,Perro Coco,Pedigri,310
+2024-08-19,Gato Simba,Brit Care,492
+2024-08-20,Perro Max,Beneful,173
+2024-08-20,Gato Luna,Brit Care,87
+2024-08-20,Perro Coco,Brit Care,438
+2024-08-20,Gato Simba,Beneful,451
+2024-08-21,Perro Max,Beneful,86
+2024-08-21,Gato Luna,Pedigri,333
+2024-08-21,Perro Coco,Pedigri,130
+2024-08-21,Gato Simba,Beneful,89
+2024-08-22,Perro Max,Pedigri,273
+2024-08-22,Gato Luna,Beneful,398
+2024-08-22,Perro Coco,Brit Care,235
+2024-08-22,Gato Simba,Brit Care,105
+2024-08-23,Perro Max,Beneful,89
+2024-08-23,Gato Luna,Brit Care,286
+2024-08-23,Perro Coco,Pedigri,311
+2024-08-23,Gato Simba,Brit Care,385
+2024-08-24,Perro Max,Pedigri,108
+2024-08-24,Gato Luna,Brit Care,353
+2024-08-24,Perro Coco,Pedigri,318
+2024-08-24,Gato Simba,Brit Care,94
+2024-08-25,Perro Max,Pedigri,230
+2024-08-25,Gato Luna,Beneful,405
+2024-08-25,Perro Coco,Brit Care,204
+2024-08-25,Gato Simba,Beneful,237
+2024-08-26,Perro Max,Brit Care,182
+2024-08-26,Gato Luna,Brit Care,94
+2024-08-26,Perro Coco,Beneful,298
+2024-08-26,Gato Simba,Brit Care,80
+2024-08-27,Perro Max,Brit Care,475
+2024-08-27,Gato Luna,Beneful,209
+2024-08-27,Perro Coco,Brit Care,486
+2024-08-27,Gato Simba,Beneful,88
+2024-08-28,Perro Max,Brit Care,131
+2024-08-28,Gato Luna,Beneful,255
+2024-08-28,Perro Coco,Pedigri,61
+2024-08-28,Gato Simba,Brit Care,499
+2024-08-29,Perro Max,Pedigri,95
+2024-08-29,Gato Luna,Brit Care,162
+2024-08-29,Perro Coco,Pedigri,66
+2024-08-29,Gato Simba,Brit Care,403
+2024-08-30,Perro Max,Pedigri,212
+2024-08-30,Gato Luna,Beneful,463
+2024-08-30,Perro Coco,Brit Care,123
+2024-08-30,Gato Simba,Pedigri,273
+2024-08-31,Perro Max,Beneful,368
+2024-08-31,Gato Luna,Brit Care,271
+2024-08-31,Perro Coco,Pedigri,327
+2024-08-31,Gato Simba,Beneful,373
+2024-09-01,Perro Max,Brit Care,241
+2024-09-01,Gato Luna,Pedigri,61
+2024-09-01,Perro Coco,Beneful,450
+2024-09-01,Gato Simba,Beneful,423
+2024-09-02,Perro Max,Pedigri,71
+2024-09-02,Gato Luna,Beneful,169
+2024-09-02,Perro Coco,Brit Care,259
+2024-09-02,Gato Simba,Beneful,319
+2024-09-03,Perro Max,Brit Care,334
+2024-09-03,Gato Luna,Brit Care,276
+2024-09-03,Perro Coco,Pedigri,56
+2024-09-03,Gato Simba,Pedigri,444
+2024-09-04,Perro Max,Pedigri,183
+2024-09-04,Gato Luna,Brit Care,128
+2024-09-04,Perro Coco,Brit Care,107
+2024-09-04,Gato Simba,Brit Care,75
+2024-09-05,Perro Max,Beneful,479
+2024-09-05,Gato Luna,Beneful,334
+2024-09-05,Perro Coco,Pedigri,148
+2024-09-05,Gato Simba,Pedigri,88
+2024-09-06,Perro Max,Brit Care,424
+2024-09-06,Gato Luna,Pedigri,206
+2024-09-06,Perro Coco,Brit Care,421
+2024-09-06,Gato Simba,Beneful,224
+2024-09-07,Perro Max,Beneful,133
+2024-09-07,Gato Luna,Beneful,76
+2024-09-07,Perro Coco,Brit Care,386
+2024-09-07,Gato Simba,Beneful,285
+2024-09-08,Perro Max,Pedigri,70
+2024-09-08,Gato Luna,Brit Care,406
+2024-09-08,Perro Coco,Brit Care,133
+2024-09-08,Gato Simba,Beneful,196
+2024-09-09,Perro Max,Pedigri,436
+2024-09-09,Gato Luna,Brit Care,306
+2024-09-09,Perro Coco,Beneful,429
+2024-09-09,Gato Simba,Beneful,64
+2024-09-10,Perro Max,Beneful,494
+2024-09-10,Gato Luna,Brit Care,369
+2024-09-10,Perro Coco,Pedigri,330
+2024-09-10,Gato Simba,Beneful,320
+2024-09-11,Perro Max,Brit Care,121
+2024-09-11,Gato Luna,Beneful,194
+2024-09-11,Perro Coco,Pedigri,358
+2024-09-11,Gato Simba,Brit Care,76
+2024-09-12,Perro Max,Beneful,99
+2024-09-12,Gato Luna,Brit Care,436
+2024-09-12,Perro Coco,Pedigri,497
+2024-09-12,Gato Simba,Pedigri,73
+2024-09-13,Perro Max,Beneful,436
+2024-09-13,Gato Luna,Beneful,64
+2024-09-13,Perro Coco,Pedigri,271
+2024-09-13,Gato Simba,Beneful,322
+2024-09-14,Perro Max,Beneful,285
+2024-09-14,Gato Luna,Pedigri,215
+2024-09-14,Perro Coco,Pedigri,493
+2024-09-14,Gato Simba,Brit Care,263
+2024-09-15,Perro Max,Beneful,166
+2024-09-15,Gato Luna,Beneful,393
+2024-09-15,Perro Coco,Brit Care,113
+2024-09-15,Gato Simba,Pedigri,258
+2024-09-16,Perro Max,Pedigri,323
+2024-09-16,Gato Luna,Beneful,369
+2024-09-16,Perro Coco,Beneful,415
+2024-09-16,Gato Simba,Brit Care,144
+2024-09-17,Perro Max,Beneful,81
+2024-09-17,Gato Luna,Brit Care,350
+2024-09-17,Perro Coco,Pedigri,338
+2024-09-17,Gato Simba,Beneful,474
+2024-09-18,Perro Max,Brit Care,263
+2024-09-18,Gato Luna,Brit Care,137
+2024-09-18,Perro Coco,Pedigri,450
+2024-09-18,Gato Simba,Pedigri,95
+2024-09-19,Perro Max,Brit Care,129
+2024-09-19,Gato Luna,Beneful,135
+2024-09-19,Perro Coco,Pedigri,251
+2024-09-19,Gato Simba,Beneful,402
+2024-09-20,Perro Max,Beneful,274
+2024-09-20,Gato Luna,Pedigri,282
+2024-09-20,Perro Coco,Pedigri,463
+2024-09-20,Gato Simba,Pedigri,126
+2024-09-21,Perro Max,Beneful,455
+2024-09-21,Gato Luna,Brit Care,243
+2024-09-21,Perro Coco,Beneful,408
+2024-09-21,Gato Simba,Beneful,223
+2024-09-22,Perro Max,Beneful,192
+2024-09-22,Gato Luna,Beneful,155
+2024-09-22,Perro Coco,Brit Care,477
+2024-09-22,Gato Simba,Pedigri,409
+2024-09-23,Perro Max,Brit Care,366
+2024-09-23,Gato Luna,Brit Care,172
+2024-09-23,Perro Coco,Beneful,58
+2024-09-23,Gato Simba,Beneful,122
+2024-09-24,Perro Max,Brit Care,272
+2024-09-24,Gato Luna,Pedigri,419
+2024-09-24,Perro Coco,Beneful,397
+2024-09-24,Gato Simba,Beneful,133
+2024-09-25,Perro Max,Beneful,160
+2024-09-25,Gato Luna,Brit Care,432
+2024-09-25,Perro Coco,Brit Care,133
+2024-09-25,Gato Simba,Beneful,363
+2024-09-26,Perro Max,Beneful,459
+2024-09-26,Gato Luna,Brit Care,52
+2024-09-26,Perro Coco,Brit Care,346
+2024-09-26,Gato Simba,Beneful,63
+2024-09-27,Perro Max,Brit Care,61
+2024-09-27,Gato Luna,Brit Care,61
+2024-09-27,Perro Coco,Pedigri,74
+2024-09-27,Gato Simba,Pedigri,292
+2024-09-28,Perro Max,Beneful,196
+2024-09-28,Gato Luna,Brit Care,287
+2024-09-28,Perro Coco,Pedigri,441
+2024-09-28,Gato Simba,Pedigri,168
+2024-09-29,Perro Max,Pedigri,232
+2024-09-29,Gato Luna,Brit Care,349
+2024-09-29,Perro Coco,Beneful,451
+2024-09-29,Gato Simba,Brit Care,199
+2024-09-30,Perro Max,Pedigri,401
+2024-09-30,Gato Luna,Pedigri,108
+2024-09-30,Perro Coco,Brit Care,461
+2024-09-30,Gato Simba,Beneful,292
+2024-10-01,Perro Max,Brit Care,494
+2024-10-01,Gato Luna,Pedigri,487
+2024-10-01,Perro Coco,Brit Care,256
+2024-10-01,Gato Simba,Pedigri,440
+2024-10-02,Perro Max,Pedigri,399
+2024-10-02,Gato Luna,Pedigri,208
+2024-10-02,Perro Coco,Beneful,494
+2024-10-02,Gato Simba,Pedigri,53
+2024-10-03,Perro Max,Beneful,69
+2024-10-03,Gato Luna,Beneful,226
+2024-10-03,Perro Coco,Brit Care,145
+2024-10-03,Gato Simba,Pedigri,469
+2024-10-04,Perro Max,Beneful,166
+2024-10-04,Gato Luna,Beneful,277
+2024-10-04,Perro Coco,Beneful,384
+2024-10-04,Gato Simba,Beneful,469
+2024-10-05,Perro Max,Beneful,344
+2024-10-05,Gato Luna,Beneful,292
+2024-10-05,Perro Coco,Brit Care,235
+2024-10-05,Gato Simba,Beneful,174
+2024-10-06,Perro Max,Brit Care,286
+2024-10-06,Gato Luna,Beneful,89
+2024-10-06,Perro Coco,Pedigri,448
+2024-10-06,Gato Simba,Pedigri,404
+2024-10-07,Perro Max,Beneful,57
+2024-10-07,Gato Luna,Beneful,136
+2024-10-07,Perro Coco,Beneful,477
+2024-10-07,Gato Simba,Beneful,383
+2024-10-08,Perro Max,Beneful,424
+2024-10-08,Gato Luna,Pedigri,374
+2024-10-08,Perro Coco,Beneful,90
+2024-10-08,Gato Simba,Beneful,365
+2024-10-09,Perro Max,Pedigri,160
+2024-10-09,Gato Luna,Beneful,280
+2024-10-09,Perro Coco,Pedigri,133
+2024-10-09,Gato Simba,Beneful,280
+2024-10-10,Perro Max,Beneful,194
+2024-10-10,Gato Luna,Brit Care,394
+2024-10-10,Perro Coco,Pedigri,77
+2024-10-10,Gato Simba,Beneful,212
+2024-10-11,Perro Max,Pedigri,310
+2024-10-11,Gato Luna,Brit Care,498
+2024-10-11,Perro Coco,Pedigri,456
+2024-10-11,Gato Simba,Brit Care,336
+2024-10-12,Perro Max,Brit Care,59
+2024-10-12,Gato Luna,Brit Care,167
+2024-10-12,Perro Coco,Beneful,129
+2024-10-12,Gato Simba,Beneful,142
+2024-10-13,Perro Max,Beneful,381
+2024-10-13,Gato Luna,Beneful,410
+2024-10-13,Perro Coco,Pedigri,182
+2024-10-13,Gato Simba,Brit Care,50
+2024-10-14,Perro Max,Pedigri,113
+2024-10-14,Gato Luna,Beneful,333
+2024-10-14,Perro Coco,Pedigri,156
+2024-10-14,Gato Simba,Pedigri,224
+2024-10-15,Perro Max,Pedigri,253
+2024-10-15,Gato Luna,Pedigri,354
+2024-10-15,Perro Coco,Pedigri,169
+2024-10-15,Gato Simba,Brit Care,256
+2024-10-16,Perro Max,Beneful,157
+2024-10-16,Gato Luna,Brit Care,494
+2024-10-16,Perro Coco,Beneful,383
+2024-10-16,Gato Simba,Beneful,342
+2024-10-17,Perro Max,Beneful,334
+2024-10-17,Gato Luna,Pedigri,168
+2024-10-17,Perro Coco,Brit Care,247
+2024-10-17,Gato Simba,Pedigri,294
+2024-10-18,Perro Max,Brit Care,374
+2024-10-18,Gato Luna,Pedigri,228
+2024-10-18,Perro Coco,Beneful,61
+2024-10-18,Gato Simba,Beneful,325
+2024-10-19,Perro Max,Pedigri,291
+2024-10-19,Gato Luna,Brit Care,348
+2024-10-19,Perro Coco,Beneful,266
+2024-10-19,Gato Simba,Beneful,334
+2024-10-20,Perro Max,Pedigri,88
+2024-10-20,Gato Luna,Brit Care,233
+2024-10-20,Perro Coco,Brit Care,476
+2024-10-20,Gato Simba,Beneful,456
+2024-10-21,Perro Max,Beneful,389
+2024-10-21,Gato Luna,Brit Care,433
+2024-10-21,Perro Coco,Beneful,350
+2024-10-21,Gato Simba,Beneful,283
+2024-10-22,Perro Max,Brit Care,57
+2024-10-22,Gato Luna,Beneful,390
+2024-10-22,Perro Coco,Pedigri,313
+2024-10-22,Gato Simba,Pedigri,401
+2024-10-23,Perro Max,Beneful,54
+2024-10-23,Gato Luna,Brit Care,135
+2024-10-23,Perro Coco,Brit Care,339
+2024-10-23,Gato Simba,Pedigri,360
+2024-10-24,Perro Max,Brit Care,267
+2024-10-24,Gato Luna,Brit Care,463
+2024-10-24,Perro Coco,Beneful,194
+2024-10-24,Gato Simba,Beneful,185
+2024-10-25,Perro Max,Brit Care,281
+2024-10-25,Gato Luna,Pedigri,125
+2024-10-25,Perro Coco,Brit Care,377
+2024-10-25,Gato Simba,Pedigri,351
+2024-10-26,Perro Max,Pedigri,50
+2024-10-26,Gato Luna,Brit Care,336
+2024-10-26,Perro Coco,Beneful,102
+2024-10-26,Gato Simba,Pedigri,410
+2024-10-27,Perro Max,Beneful,495
+2024-10-27,Gato Luna,Beneful,241
+2024-10-27,Perro Coco,Beneful,112
+2024-10-27,Gato Simba,Pedigri,210
+2024-10-28,Perro Max,Pedigri,138
+2024-10-28,Gato Luna,Pedigri,122
+2024-10-28,Perro Coco,Pedigri,126
+2024-10-28,Gato Simba,Brit Care,373
+2024-10-29,Perro Max,Beneful,430
+2024-10-29,Gato Luna,Beneful,181
+2024-10-29,Perro Coco,Beneful,68
+2024-10-29,Gato Simba,Beneful,131
+2024-10-30,Perro Max,Pedigri,328
+2024-10-30,Gato Luna,Brit Care,414
+2024-10-30,Perro Coco,Brit Care,178
+2024-10-30,Gato Simba,Beneful,359
+2024-10-31,Perro Max,Brit Care,138
+2024-10-31,Gato Luna,Pedigri,192
+2024-10-31,Perro Coco,Pedigri,125
+2024-10-31,Gato Simba,Beneful,248
+2024-11-01,Perro Max,Brit Care,454
+2024-11-01,Gato Luna,Brit Care,365
+2024-11-01,Perro Coco,Pedigri,466
+2024-11-01,Gato Simba,Pedigri,273
+2024-11-02,Perro Max,Pedigri,340
+2024-11-02,Gato Luna,Beneful,316
+2024-11-02,Perro Coco,Brit Care,159
+2024-11-02,Gato Simba,Beneful,379
+2024-11-03,Perro Max,Beneful,479
+2024-11-03,Gato Luna,Pedigri,52
+2024-11-03,Perro Coco,Pedigri,331
+2024-11-03,Gato Simba,Beneful,461
+2024-11-04,Perro Max,Pedigri,270
+2024-11-04,Gato Luna,Beneful,202
+2024-11-04,Perro Coco,Pedigri,353
+2024-11-04,Gato Simba,Pedigri,349
+2024-11-05,Perro Max,Brit Care,92
+2024-11-05,Gato Luna,Brit Care,375
+2024-11-05,Perro Coco,Beneful,413
+2024-11-05,Gato Simba,Brit Care,476
+2024-11-06,Perro Max,Pedigri,70
+2024-11-06,Gato Luna,Brit Care,156
+2024-11-06,Perro Coco,Brit Care,385
+2024-11-06,Gato Simba,Brit Care,166
+2024-11-07,Perro Max,Brit Care,330
+2024-11-07,Gato Luna,Brit Care,100
+2024-11-07,Perro Coco,Brit Care,373
+2024-11-07,Gato Simba,Pedigri,190
+2024-11-08,Perro Max,Beneful,324
+2024-11-08,Gato Luna,Beneful,383
+2024-11-08,Perro Coco,Pedigri,422
+2024-11-08,Gato Simba,Beneful,76
+2024-11-09,Perro Max,Pedigri,288
+2024-11-09,Gato Luna,Brit Care,185
+2024-11-09,Perro Coco,Beneful,469
+2024-11-09,Gato Simba,Beneful,195
+2024-11-10,Perro Max,Beneful,482
+2024-11-10,Gato Luna,Pedigri,181
+2024-11-10,Perro Coco,Beneful,394
+2024-11-10,Gato Simba,Beneful,312
+2024-11-11,Perro Max,Brit Care,157
+2024-11-11,Gato Luna,Beneful,88
+2024-11-11,Perro Coco,Pedigri,208
+2024-11-11,Gato Simba,Brit Care,496
+2024-11-12,Perro Max,Pedigri,475
+2024-11-12,Gato Luna,Pedigri,347
+2024-11-12,Perro Coco,Beneful,312
+2024-11-12,Gato Simba,Beneful,434
+2024-11-13,Perro Max,Pedigri,411
+2024-11-13,Gato Luna,Brit Care,428
+2024-11-13,Perro Coco,Pedigri,424
+2024-11-13,Gato Simba,Beneful,167
+2024-11-14,Perro Max,Pedigri,263
+2024-11-14,Gato Luna,Pedigri,75
+2024-11-14,Perro Coco,Pedigri,320
+2024-11-14,Gato Simba,Beneful,427
+2024-11-15,Perro Max,Pedigri,174
+2024-11-15,Gato Luna,Beneful,121
+2024-11-15,Perro Coco,Pedigri,203
+2024-11-15,Gato Simba,Brit Care,342
+2024-11-16,Perro Max,Beneful,201
+2024-11-16,Gato Luna,Brit Care,149
+2024-11-16,Perro Coco,Brit Care,251
+2024-11-16,Gato Simba,Pedigri,195
+2024-11-17,Perro Max,Brit Care,213
+2024-11-17,Gato Luna,Beneful,488
+2024-11-17,Perro Coco,Beneful,118
+2024-11-17,Gato Simba,Brit Care,98
+2024-11-18,Perro Max,Brit Care,157
+2024-11-18,Gato Luna,Beneful,210
+2024-11-18,Perro Coco,Brit Care,198
+2024-11-18,Gato Simba,Pedigri,199
+2024-11-19,Perro Max,Pedigri,192
+2024-11-19,Gato Luna,Brit Care,209
+2024-11-19,Perro Coco,Brit Care,187
+2024-11-19,Gato Simba,Pedigri,127
+2024-11-20,Perro Max,Pedigri,490
+2024-11-20,Gato Luna,Beneful,458
+2024-11-20,Perro Coco,Beneful,369
+2024-11-20,Gato Simba,Brit Care,312
+2024-11-21,Perro Max,Pedigri,195
+2024-11-21,Gato Luna,Brit Care,91
+2024-11-21,Perro Coco,Beneful,174
+2024-11-21,Gato Simba,Brit Care,474
+2024-11-22,Perro Max,Pedigri,329
+2024-11-22,Gato Luna,Beneful,68
+2024-11-22,Perro Coco,Beneful,151
+2024-11-22,Gato Simba,Beneful,337
+2024-11-23,Perro Max,Brit Care,158
+2024-11-23,Gato Luna,Beneful,85
+2024-11-23,Perro Coco,Pedigri,402
+2024-11-23,Gato Simba,Brit Care,122
+2024-11-24,Perro Max,Pedigri,428
+2024-11-24,Gato Luna,Beneful,474
+2024-11-24,Perro Coco,Brit Care,245
+2024-11-24,Gato Simba,Pedigri,98
+2024-11-25,Perro Max,Beneful,493
+2024-11-25,Gato Luna,Pedigri,477
+2024-11-25,Perro Coco,Brit Care,209
+2024-11-25,Gato Simba,Pedigri,313
+2024-11-26,Perro Max,Beneful,249
+2024-11-26,Gato Luna,Beneful,116
+2024-11-26,Perro Coco,Beneful,349
+2024-11-26,Gato Simba,Pedigri,107
+2024-11-27,Perro Max,Brit Care,391
+2024-11-27,Gato Luna,Beneful,179
+2024-11-27,Perro Coco,Brit Care,221
+2024-11-27,Gato Simba,Beneful,151
+2024-11-28,Perro Max,Pedigri,340
+2024-11-28,Gato Luna,Beneful,335
+2024-11-28,Perro Coco,Beneful,349
+2024-11-28,Gato Simba,Beneful,85
+2024-11-29,Perro Max,Pedigri,382
+2024-11-29,Gato Luna,Pedigri,336
+2024-11-29,Perro Coco,Brit Care,360
+2024-11-29,Gato Simba,Beneful,495
+2024-11-30,Perro Max,Beneful,170
+2024-11-30,Gato Luna,Brit Care,449
+2024-11-30,Perro Coco,Pedigri,449
+2024-11-30,Gato Simba,Brit Care,193
+2024-12-01,Perro Max,Beneful,286
+2024-12-01,Gato Luna,Brit Care,397
+2024-12-01,Perro Coco,Brit Care,153
+2024-12-01,Gato Simba,Beneful,54
+2024-12-02,Perro Max,Pedigri,170
+2024-12-02,Gato Luna,Beneful,198
+2024-12-02,Perro Coco,Beneful,455
+2024-12-02,Gato Simba,Beneful,280
+2024-12-03,Perro Max,Pedigri,321
+2024-12-03,Gato Luna,Beneful,275
+2024-12-03,Perro Coco,Pedigri,191
+2024-12-03,Gato Simba,Pedigri,200
+2024-12-04,Perro Max,Beneful,286
+2024-12-04,Gato Luna,Beneful,410
+2024-12-04,Perro Coco,Pedigri,307
+2024-12-04,Gato Simba,Brit Care,298
+2024-12-05,Perro Max,Pedigri,498
+2024-12-05,Gato Luna,Brit Care,372
+2024-12-05,Perro Coco,Beneful,456
+2024-12-05,Gato Simba,Beneful,245
+2024-12-06,Perro Max,Beneful,360
+2024-12-06,Gato Luna,Beneful,468
+2024-12-06,Perro Coco,Beneful,476
+2024-12-06,Gato Simba,Brit Care,391
+2024-12-07,Perro Max,Pedigri,293
+2024-12-07,Gato Luna,Beneful,61
+2024-12-07,Perro Coco,Brit Care,98
+2024-12-07,Gato Simba,Beneful,215
+2024-12-08,Perro Max,Beneful,478
+2024-12-08,Gato Luna,Brit Care,207
+2024-12-08,Perro Coco,Beneful,207
+2024-12-08,Gato Simba,Beneful,183
+2024-12-09,Perro Max,Brit Care,385
+2024-12-09,Gato Luna,Brit Care,485
+2024-12-09,Perro Coco,Beneful,122
+2024-12-09,Gato Simba,Brit Care,454
+2024-12-10,Perro Max,Brit Care,115
+2024-12-10,Gato Luna,Brit Care,179
+2024-12-10,Perro Coco,Brit Care,255
+2024-12-10,Gato Simba,Beneful,305
+2024-12-11,Perro Max,Beneful,74
+2024-12-11,Gato Luna,Beneful,330
+2024-12-11,Perro Coco,Pedigri,359
+2024-12-11,Gato Simba,Pedigri,213
+2024-12-12,Perro Max,Brit Care,319
+2024-12-12,Gato Luna,Pedigri,159
+2024-12-12,Perro Coco,Beneful,287
+2024-12-12,Gato Simba,Pedigri,485
+2024-12-13,Perro Max,Brit Care,474
+2024-12-13,Gato Luna,Beneful,74
+2024-12-13,Perro Coco,Pedigri,166
+2024-12-13,Gato Simba,Beneful,441
+2024-12-14,Perro Max,Pedigri,74
+2024-12-14,Gato Luna,Brit Care,117
+2024-12-14,Perro Coco,Pedigri,493
+2024-12-14,Gato Simba,Pedigri,80
+2024-12-15,Perro Max,Beneful,69
+2024-12-15,Gato Luna,Beneful,365
+2024-12-15,Perro Coco,Brit Care,439
+2024-12-15,Gato Simba,Pedigri,92
+2024-12-16,Perro Max,Beneful,179
+2024-12-16,Gato Luna,Brit Care,336
+2024-12-16,Perro Coco,Brit Care,54
+2024-12-16,Gato Simba,Brit Care,467
+2024-12-17,Perro Max,Beneful,394
+2024-12-17,Gato Luna,Beneful,431
+2024-12-17,Perro Coco,Brit Care,227
+2024-12-17,Gato Simba,Pedigri,464
+2024-12-18,Perro Max,Brit Care,132
+2024-12-18,Gato Luna,Pedigri,148
+2024-12-18,Perro Coco,Pedigri,378
+2024-12-18,Gato Simba,Beneful,420
+2024-12-19,Perro Max,Brit Care,129
+2024-12-19,Gato Luna,Pedigri,309
+2024-12-19,Perro Coco,Brit Care,89
+2024-12-19,Gato Simba,Pedigri,150
+2024-12-20,Perro Max,Brit Care,429
+2024-12-20,Gato Luna,Pedigri,357
+2024-12-20,Perro Coco,Beneful,280
+2024-12-20,Gato Simba,Beneful,112
+2024-12-21,Perro Max,Pedigri,165
+2024-12-21,Gato Luna,Brit Care,111
+2024-12-21,Perro Coco,Pedigri,56
+2024-12-21,Gato Simba,Brit Care,141
+2024-12-22,Perro Max,Beneful,63
+2024-12-22,Gato Luna,Brit Care,278
+2024-12-22,Perro Coco,Pedigri,135
+2024-12-22,Gato Simba,Pedigri,232
+2024-12-23,Perro Max,Beneful,111
+2024-12-23,Gato Luna,Brit Care,454
+2024-12-23,Perro Coco,Beneful,279
+2024-12-23,Gato Simba,Brit Care,198
+2024-12-24,Perro Max,Beneful,363
+2024-12-24,Gato Luna,Brit Care,438
+2024-12-24,Perro Coco,Pedigri,62
+2024-12-24,Gato Simba,Pedigri,291
+2024-12-25,Perro Max,Pedigri,262
+2024-12-25,Gato Luna,Pedigri,387
+2024-12-25,Perro Coco,Pedigri,222
+2024-12-25,Gato Simba,Pedigri,237
+2024-12-26,Perro Max,Brit Care,240
+2024-12-26,Gato Luna,Pedigri,357
+2024-12-26,Perro Coco,Brit Care,166
+2024-12-26,Gato Simba,Beneful,245
+2024-12-27,Perro Max,Beneful,101
+2024-12-27,Gato Luna,Beneful,281
+2024-12-27,Perro Coco,Brit Care,282
+2024-12-27,Gato Simba,Pedigri,485
+2024-12-28,Perro Max,Pedigri,471
+2024-12-28,Gato Luna,Beneful,70
+2024-12-28,Perro Coco,Beneful,446
+2024-12-28,Gato Simba,Pedigri,154
+2024-12-29,Perro Max,Pedigri,169
+2024-12-29,Gato Luna,Pedigri,474
+2024-12-29,Perro Coco,Pedigri,179
+2024-12-29,Gato Simba,Pedigri,146
+2024-12-30,Perro Max,Beneful,291
+2024-12-30,Gato Luna,Beneful,493
+2024-12-30,Perro Coco,Pedigri,333
+2024-12-30,Gato Simba,Brit Care,296
+2024-12-31,Perro Max,Beneful,313
+2024-12-31,Gato Luna,Brit Care,263
+2024-12-31,Perro Coco,Pedigri,128
+2024-12-31,Gato Simba,Pedigri,493
